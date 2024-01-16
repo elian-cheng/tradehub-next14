@@ -7,4 +7,4 @@ This platform enable us to track sellers, invoices, and income. It consists of s
 - a dashboard page which will be the hub of all activity;
 - a page where we can perform CRUD operations with the invoices.
 
-image.png
+https://github.com/elian-cheng/tradehub-next14/blob/main/image.png
